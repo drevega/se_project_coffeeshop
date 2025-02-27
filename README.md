@@ -1,4 +1,4 @@
-# Triple Peaks Coffee Shop
+# Triple Peaks Coffee Shop "cafecito"
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+In the future, changes need to be made to correct button and checkbox in reservations section. Checkbox needs to come before submit button.
