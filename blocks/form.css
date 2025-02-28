@@ -52,10 +52,12 @@
 .form__label {
   margin: 0 0 8px;
   font-style: normal;
+  font-weight: 500;
 }
 
 .form__label_type_checkbox {
   display: flex;
   gap: 12px;
   justify-content: center;
+  margin-bottom: 0;
 }
